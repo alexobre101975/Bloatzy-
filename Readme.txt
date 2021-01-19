@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: Arsha
-Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+este es un proyecto de una compañia que se dedica a la venta de computadoras ycelulares
